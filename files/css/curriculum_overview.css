@@ -24,3 +24,8 @@ main li {
 .classroom p {
     font-size: 1.15em;
 }
+
+#curric-iframe {
+    width: 100%;
+    height: 90vh;
+}
