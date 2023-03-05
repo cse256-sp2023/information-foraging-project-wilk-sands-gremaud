@@ -6,7 +6,7 @@ path: ["math_science.html"]
 School Day: You are investigating pre-school options for your 4 year old. Both you and your spouse work, so you need to fully understand what scheduling constraints each option involves. One of your schools of interest is the Washington University Nursery School. When does school start and end each day? What is the longest period of time that your child can be there?
 - created a tab called policies and procedures under parent resources and described bear tracks-extended day on there which i think answers the question
 
-TO DO: 
+TO DO: DONE
 - for each schedule add something extended/early/late departure
 - Bear Tracks put that it is for all ages
 
@@ -16,7 +16,7 @@ path: ["bear_cubs.html"]
 
 Summer Camp: 
 -split summer camp page into two pages, brochure and dates_tuition_hours
-TO DO:
+TO DO: DONE
 - move hours and bear tracks/extended day next to each other
 path:["dates_tuition_hours.html"]
 
@@ -35,12 +35,12 @@ TO DO: DONE
 Books: It is mid-December, 2020 and you are thinking about things to do over your daughter's upcoming school break. She is 3 years old and attends the Washington University Nursery School and is in the Teddy Bear classroom. You are planning a trip to the library and want to check out some books that connect with something she is doing in school. What are some potential book topics that relate to something that is going on in her classroom this week?
 - asked on piazza how we are suppose to know which week is "this week"
 
-TO DO:
+TO DO: DONE
 - link the subject pages on classroom pages (teddy bears) to direct them towards what they learned in each subject that week
 
 Admission-2: You are a parent with a child who has just been accepted to attend as a full time student at the Washington University Nursery School. You want to accept the offer of admission. Figure out what you need to do at this time to finalize your child’s place at the school.
 - added Admission tab with enrollment form in drop down (old forms page but cleaned up unnecessary/repetitive info)
-TO DO:
+TO DO: DONE
 - move info from Admission word/Application Procedure to Apply and then unlinked the word admission
 - add tuition to apply page
 
