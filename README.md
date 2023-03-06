@@ -8,7 +8,7 @@ School Day: You are investigating pre-school options for your 4 year old. Both y
 
 TO DO: DONE
 - for each schedule add something extended/early/late departure
-- Bear Tracks put that it is for all ages
+- Bear Tracks put that it is for all ages DONE
 
 Teacher Tenure: DONE
 -classrooms and tenure added to staff page. tenure added to all teacher profiles in classrooms. years added to classroom dropdown.
@@ -75,8 +75,8 @@ Parent/Teacher Conferences
 -conference info found under conferences_extrahelp DONE
 -dates at top of calendar with link to conference page
 
-TO DO:
-- Conferences and Communication tab under Parent Information DONE
+TO DO: DONE
+- Conferences and Communication tab under Parent Information
 - add link to this page under curriculum overview
 
 Orientation: You have recently accepted a position for your child for the coming school year at the Washington University Nursery School. Up to this point, your child has been at home and you are somewhat worried about the transition. How does the nursery school support kids’ transitions into school?
